@@ -7,6 +7,6 @@ Funcionalidade: Fazer login
   
     Dado que eu tenho um usuário
         | usuario   | 727109        |
-        | senha     | Yaman@2025    |
+        | senha     | senha@2025    |
     Quando eu faço login
     Então verifico se estou logado
